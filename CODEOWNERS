@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @mojibake-umd
+/src/backend/database.py      @mojibake-umd
+/src/backend/routers/auth.py  @mojibake-umd
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @mojibake-umd
